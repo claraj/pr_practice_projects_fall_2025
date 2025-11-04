@@ -67,7 +67,9 @@ print(f'One of ITEC 2903's favorite stores is {favorite_store}')
 
 ## 12. Favorite Sport
 
-favorite_sport = ''
+favorite_sport = '**'
+
+## Added sport
 print(f'One of ITEC 2903's favorite sports is {favorite_sport}')
 
 
