@@ -67,8 +67,10 @@ print(f'One of ITEC 2903s favorite stores is {favorite_store}')
 
 ## 12. Favorite Sport
 
-favorite_sport = ''
-print(f'One of ITEC 2903s favorite sports is {favorite_sport}')
+favorite_sport = '*soccer*'
+
+## Added sport
+print(f'One of ITEC 2903's favorite sports is {favorite_sport}')
 
 
 ## 13. Favorite Programming Language
