@@ -26,7 +26,7 @@ print(f'One of ITEC 2903's favorite types of music is {favorite_music}')
 
 ## 5. Favorite Place
 
-favorite_place = ''
+favorite_place = 'home'
 print(f'One of ITEC 2903's favorite places is {favorite_place}')
 
 
